@@ -1,0 +1,19 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+}
+.exporter {
+  max-width: 600px;
+  margin: auto;
+}
+.inputs label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+.inputs input {
+  margin-left: 0.5rem;
+}
+.buttons button {
+  margin-right: 1rem;
+  padding: 0.5rem 1rem;
+}
